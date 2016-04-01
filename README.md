@@ -7,3 +7,4 @@
 4. mednafen -video.driver sdl -vb.default_color 0xff0000 -vb.3dmode sidebyside -vb.xres 470 -vb.yres 272 NAME_OF_ROM
 
 Designed by Thomas Deckert 
+These files are Creative Commons Attribution-NonCommercial-ShareAlike 4.0 see LICENSE for details. 
